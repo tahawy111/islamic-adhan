@@ -1,0 +1,39 @@
+{
+  "name": "islamic-adhan",
+  "version": "1.0.5",
+  "description": "Function to return Pray times or adhan times in any place in the world",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prayer-times",
+    "prayer-times.js",
+    "prayer-times.ts",
+    "prayer times",
+    "salah times",
+    "prayer-time",
+    "اوقات الصلاة",
+    "الاذان",
+    "adhan",
+    "aladhan",
+    "prayTimes",
+    "prayTime",
+    "مواقيت الصلاة",
+    "adhan.js",
+    "islamic-adhan",
+    "الأذان الأسلامي",
+    "adhan.ts"
+  ],
+  "author": "Tahawy111",
+  "license": "ISC",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahawy111/adhan.ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tahawy111/adhan.ts/issues"
+  },
+  "homepage": "https://github.com/tahawy111/adhan.ts#readme"
+}
